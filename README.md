@@ -1,7 +1,7 @@
 # DarkBox
 This is the Arduino code for the DarkBox test fixture.
 
-If you have questions, contact a.nutt7@gmail.com
+If you have questions, contact a.nutt7@gmail.com or marcusfinlinson@gmail.com
 
 The code is designed to be easily extensible to new products with different brightness and turn-on threshold requirements.
 To add a new product, do the following:
